@@ -1,3 +1,5 @@
 # ignore large data files .mat and .nc4
 *.mat
 *.nc4
+*.xml
+
