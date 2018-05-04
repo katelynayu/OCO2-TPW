@@ -2,4 +2,4 @@
 *.mat
 *.nc4
 *.xml
-*.dat
+*gshhs_f.dat #that one is a large data file from basemap software
