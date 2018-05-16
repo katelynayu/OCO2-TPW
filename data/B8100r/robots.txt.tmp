@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /opendap/
+User-agent: Wget
+Disallow:
+User-agent: curl
+Disallow:
